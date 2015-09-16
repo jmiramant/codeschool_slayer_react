@@ -28,7 +28,7 @@ var Quiz = React.createClass({
         answers: [],
         complete: false,
         questionNumber: 0,
-        question: 'feching question',
+        question: 'fetching question',
         apiResp: {}
     };
   },
